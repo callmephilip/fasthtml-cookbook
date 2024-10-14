@@ -1,4 +1,4 @@
-# Welcome to HTMX cookbook
+# Welcome to FastHTML cookbook
 
 > Please note, this very much WIP. If you have certain recipes that you want to share or want to see, head to [Github](https://github.com/callmephilip/htmx-cookbook)
 
