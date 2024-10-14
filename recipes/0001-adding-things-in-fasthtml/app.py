@@ -1,3 +1,5 @@
+# Also on Youtube - https://www.youtube.com/shorts/dMoLkJus0iU
+
 from fasthtml.common import *
 
 app, rt = fast_app()
