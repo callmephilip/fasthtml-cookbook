@@ -1,3 +1,4 @@
+# Also on Youtube: https://youtube.com/shorts/V1q-ndAHkqM
 # design credit: https://www.creative-tim.com/twcomponents/component/music-player-cards
 
 from fasthtml.common import *
