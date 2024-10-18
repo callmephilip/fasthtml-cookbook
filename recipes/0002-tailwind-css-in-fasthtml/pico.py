@@ -1,3 +1,4 @@
+# Also on Youtube: https://youtube.com/shorts/V1q-ndAHkqM
 from fasthtml.common import *
 
 # Default app come with Pico.css
